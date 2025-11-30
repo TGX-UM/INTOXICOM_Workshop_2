@@ -1,27 +1,46 @@
 ---
-title: 'INTOXICOM Workshop Report: ...'
-title_short: 'INTOXIOM #2: ...'
+title: 'INTOXICOM Workshop Report: Enhancing Research Output: FAIR documentation and Tool Management for toxicology studies'
+title_short: 'INTOXIOM #2: Enhancing Research Output'
 tags:
   - toxicology
-  - PubChem
-  - unknown chemical substances
+  - research output
 # order now alphabetical
 authors:
-  - name: Jente Houweling
+  - name: Meike&nbsp;Bünger
     affiliation: 1
-    orcid: 0009-0005-3680-0645
-  - name: Marvin Martens
+    orcid: 0009-0002-7664-0058
+  - name: Thomas&nbsp;Exner
     affiliation: 2
+    orcid: 0000-0002-1849-5246
+  - name: Jente&nbsp;Houweling
+    affiliation: 3, 4
+    orcid: 0009-0005-3680-0645
+  - name: Danyel&nbsp;Jennen
+    affiliation: 4
+  - name: Iseult&nbsp;Lynch
+    affiliation: 5
+    orcid: 0000-0003-4250-4584
+  - name: Marvin&nbsp;Martens
+    affiliation: 4
     orcid: 0000-0003-2230-0840
-  - name: Egon Willighagen
-    affiliation: 3
+  - name: Egon&nbsp;Willighagen
+    affiliation: 4
     orcid: 0000-0001-7542-0286
 affiliations:
-  - name: RIVM, Bilthoven, Netherlands, Department of Bioinformatics - BiGCaT, NUTRIM, Maastricht University, 6229 ER Maastricht, NL
+  - name: Stichting Health-RI, Utrecht, NL
     index: 1
-  - name: Dept of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
+  - name: Seven Past Nine GmbH, Schopfheim, DE
     index: 2
-    ror: 8s72v
+    ror: 023dg6y22
+  - name: RIVM, Bilthoven, Netherlands, NL
+    index: 3
+    ror: 01cesdt21
+  - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
+    index: 4
+    ror: 02jz4aj89
+  - name: University of Birmingham, Birmingham, UK
+    index: 5
+    ror: 03angcq70
 date: 1 December 2024
 cito-bibliography: paper.bib
 event: INTOXICOM
@@ -30,95 +49,88 @@ biohackathon_url:   "[https://biohackathon-europe.org/](https://elixir-europe.or
 biohackathon_location: "Basel, 27-29 Nov 2024"
 group: Workshop 2
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/BiGCAT-UM/INTOXICOM_Workshop_2/
+git_url: https://github.com/TGX-UM/INTOXICOM_Workshop_2/
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: Martens \emph{et al.}
+authors_short: Bünger \emph{et al.}
 ---
 
 
 # Introduction
 
-As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized. The first INTOXICOM workshop was held in May 2024 [@citesAsRecommendedReading:citesAsEvidence:Martens2024INTOXICOM]. Here, we here report on the 2nd workshop...
+As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized. The first INTOXICOM workshop was held in May 2024
+[@citesAsRecommendedReading:citesAsEvidence:Martens2024INTOXICOM]. Here,
+we here report on the 2nd workshop, titled "Enhancing Research Output: FAIR documentation and Tool Management for toxicology studies"
+which was held from 27 to 28 November 2024 at the Main Building
+of the University of Basel in Switzerland.
 
-# Formatting
+A team of ELIXIR Toxicology Community participants, including Marvin Martens, Danyel Jennen, Meike Bünger, Rob Stierum, Thomas Exner, Egon Willighagen, coordinated the event. Four experts were invited to
+join the event: Sara Morsy (Training Platform, UK), Christian Bonatto Minella (FIZ Karlsruhe, DE), Kryštof Komanec (DS-Wizard, CZ), and Vassilios Ioannidis (FAIR Cookbook).
 
-This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
+# The workshop
 
-## Subsection level 2
+This workshop was a face-to-face, free-of-charge hands-on workshop
+with the target audience being toxicologists with interest in using FAIR
+data resources for their research or making their data FAIR, as well as data managers and
+researchers working with Adverse Outcome Pathways (AOPs). It had 17 participants, 
+12 in-person and 5 online. The participants represented a diverse set of organisations,
+including universities (University of Bradford, University of Birmingham, Masaryk University,
+University of Liege, University of Tartu, University of Plovdiv, Czech Technical University,
+and Maastricht University), as well as research institutes (TNO, SIB, RIVM, FIX Karlsruhe)
+and companies (Seven Past Nine GmbH). Additionally, representatives from regulatory bodies,
+projects, and various ELIXIR Platforms participated.
+Geographically, the workshop had attendees from The Netherlands, the UK, Germany, Czechia,
+Belgium, Estonia, Bulgaria, and Switzerland.
 
-Please keep sections to a maximum of only two levels.
+## Presentations
 
-## Tables and figures
+The workshop again started with presentations to introduce ELIXIR, the ELIXIR Toxicology Community, the scope of the workshop, and the specific workshop sessions. Table 1 gives an overview of the presentations.
 
-Tables can be added in the following way, though alternatives are possible:
-
-Table: Note that table caption is automatically numbered and should be
-given before the table itself.
-
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
-
-A figure is added with:
-
-![Caption for BioHackrXiv logo figure](./biohackrxiv.png)
-
-# Other main section on your manuscript level 1
-
-Lists can be added with:
-
-1. Item 1
-2. Item 2
-
-# Citation Typing Ontology annotation
-
-You can use [CiTO](http://purl.org/spar/cito/2018-02-12) annotations, as explained in [this BioHackathon Europe 2021 write up](https://raw.githubusercontent.com/biohackrxiv/bhxiv-metadata/main/doc/elixir_biohackathon2021/paper.md) and [this CiTO Pilot](https://www.biomedcentral.com/collections/cito).
-Using this template, you can cite an article and indicate _why_ you cite that article, for instance DisGeNET-RDF [@citesAsAuthority:Queralt2016].
-
-The syntax in Markdown is as follows: a single intention annotation looks like
-`[@usesMethodIn:Krewinkel2017]`; two or more intentions are separated
-with colons, like `[@extends:discusses:Nielsen2017Scholia]`. When you cite two
-different articles, you use this syntax: `[@citesAsDataSource:Ammar2022ETL; @citesAsDataSource:Arend2022BioHackEU22]`.
-
-Possible CiTO typing annotation include:
-
-* citesAsDataSource: when you point the reader to a source of data which may explain a claim
-* usesDataFrom: when you reuse somehow (and elaborate on) the data in the cited entity
-* usesMethodIn
-* citesAsAuthority
-* citesAsEvidence
-* citesAsPotentialSolution
-* citesAsRecommendedReading
-* citesAsRelated
-* citesAsSourceDocument
-* citesForInformation
-* confirms
-* documents
-* providesDataFor
-* obtainsSupportFrom
-* discusses
-* extends
-* agreesWith
-* disagreesWith
-* updates
-* citation: generic citation
-
+| Speaker | Talk Title  |
+| --- | -------- |
+| Egon Willighagen | ELIXIR Introduction & ELIXIR Toxicology Community |
+| Vassilios Ioannidis | The FAIR Cookbook - How to Contribute |
+| Sara Morsy | How to make toxicology training materials FAIR |
+| Marvin Martens | FAIRification of Scientific Models: Adverse Outcome Pathways |
+| Egon Willighagen | Making QSAR models FAIR |
+| Kryštof Komanec | DSW TDK Creating a new template |
+| Christian Bonatto Minella | FAIRsharing and the ELIXIR Toxicology Community |
 
 # Results
 
+Section on FIPs... refer to INTOXICOM WS1 and new one at https://hackmd.io/@lusinke/rkXlvLXE0
+
+Next session was about using BioSchemas to make training material more FAIR...
+* Various resources... copy from common notes: e.g. https://nanocommons.github.io/user-handbook/ https://enanomapper.github.io/tutorials/BrowseOntology/Tutorial%20browsing%20eNM%20ontology.html https://zenodo.org/records/6769695
+* Registration in ELIXIR TeSS
+* toxicology curicula (like NL PET)
+
+Second day, session on FAIR models ...
+
+Next session on the DS-Wizard and the need for templates: https://ds-wizard.org/document-templates https://en.wikipedia.org/wiki/Jinja  What needs to be done by the Tox community is to create a knowledge model for the different 4 scientific models, QSAR, AOPs Wiki-pathways, ..
+Action: organize a longer session. 
+
+FAIRsharing and the ELIXIR Toxicology Community 
 
 # Discussion
 
-...
+The workshop had a stimulating discussion and resulted in new output that feeds
+back into the ELIXIR Toxicology Community (e.g. via this report) and via the
+two FIPs, three FAIR Cookbook recipes, and other outcomes back into the wider ELIXIR
+and toxicology communities. Both the recipes and the cookbook need further work,
+and, more importantly, adoption by toxicologists.
+Of course, the workshop was relatively short to complete output as intended,
+which is reflected in the nature of the cited results, and for the FIPs
+there are not even tangible results that can be linked to, at the time of writing.
 
-## Acknowledgements
-
-...
+This limitation was anticipated and results will be picked up by the participants and
+followed up in the second INTOXICOM workshop. This report will allow follow up
+work to acknowledge the input from this workshop by citing this paper.
 
 ## Funding
 
 This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023-INTOXICOM).
+
+Participants acknowledge funding from ...
 
 ## References
