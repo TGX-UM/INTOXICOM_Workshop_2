@@ -6,6 +6,9 @@ tags:
   - research output
 # order now alphabetical
 authors:
+  - name: Christian&nbsp;Bonatto&nbsp;Minella
+    affiliation: 6
+    orcid: 0000-0001-7696-7662
   - name: Meike&nbsp;Bünger
     affiliation: 1
     orcid: 0009-0002-7664-0058
@@ -41,6 +44,8 @@ affiliations:
   - name: University of Birmingham, Birmingham, UK
     index: 5
     ror: 03angcq70
+  - name: FIZ Karlsruhe – Leibniz Institute for Information Infrastructure, Eggenstein-Leopoldshafen, DE
+    index: 6
 date: 1 December 2024
 cito-bibliography: paper.bib
 event: INTOXICOM
