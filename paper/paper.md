@@ -50,7 +50,7 @@ date: 1 December 2024
 cito-bibliography: paper.bib
 event: INTOXICOM
 biohackathon_name: "INTOXICOM Workshops"
-biohackathon_url:   "[https://biohackathon-europe.org/](https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community)"
+biohackathon_url:   "https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community"
 biohackathon_location: "Basel, 27-29 Nov 2024"
 group: Workshop 2
 # URL to project git repo --- should contain the actual paper.md:
