@@ -114,18 +114,7 @@ FAIRsharing and the ELIXIR Toxicology Community
 
 # Discussion
 
-The workshop had a stimulating discussion and resulted in new output that feeds
-back into the ELIXIR Toxicology Community (e.g. via this report) and via the
-two FIPs, three FAIR Cookbook recipes, and other outcomes back into the wider ELIXIR
-and toxicology communities. Both the recipes and the cookbook need further work,
-and, more importantly, adoption by toxicologists.
-Of course, the workshop was relatively short to complete output as intended,
-which is reflected in the nature of the cited results, and for the FIPs
-there are not even tangible results that can be linked to, at the time of writing.
-
-This limitation was anticipated and results will be picked up by the participants and
-followed up in the second INTOXICOM workshop. This report will allow follow up
-work to acknowledge the input from this workshop by citing this paper.
+...
 
 ## Funding
 
