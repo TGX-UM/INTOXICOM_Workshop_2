@@ -8,8 +8,7 @@ This workshop was held in Basel, Swiss, in 2024.
 
 1. go to https://preview.biohackrxiv.org/
 2. copy/paste `https://github.com/TGX-UM/INTOXICOM_Workshop_2/` in the "Repository:" field
-3. Select "Compile for" `Other Open Source BioHackathon`
-4. Click the "Convert" button and wait a few seconds
+3. Click the "Generate PDF" button and wait a few seconds
 5. (Optionally) Download the PDF
 
 ### Option 2
