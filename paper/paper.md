@@ -103,7 +103,7 @@ researchers working with Adverse Outcome Pathways (AOPs). It had 17 participants
 12 in-person and 5 online. The participants represented a diverse set of organisations,
 including universities (University of Bradford, University of Birmingham, Masaryk University,
 University of Liege, University of Tartu, University of Plovdiv, Czech Technical University,
-and Maastricht University), as well as research institutes (TNO, SIB, RIVM, FIX Karlsruhe)
+and Maastricht University), as well as research institutes (TNO, SIB, RIVM, FIZ Karlsruhe)
 and companies (Seven Past Nine GmbH). Additionally, representatives from regulatory bodies,
 projects, and various ELIXIR Platforms participated.
 Geographically, the workshop had attendees from The Netherlands, the UK, Germany, Czechia,
