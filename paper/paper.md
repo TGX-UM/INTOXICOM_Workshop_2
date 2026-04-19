@@ -113,7 +113,7 @@ Belgium, Estonia, Bulgaria, and Switzerland.
 
 The workshop again started with presentations to introduce ELIXIR, the ELIXIR Toxicology Community, the scope of the workshop, and the specific workshop sessions. Table 1 gives an overview of the presentations.
 
-| Speaker | Talk Title  |
+| **Speaker** | **Talk Title**  |
 | --- | -------- |
 | Egon Willighagen | ELIXIR Introduction & ELIXIR Toxicology Community |
 | Vassilios Ioannidis | The FAIR Cookbook - How to Contribute |
