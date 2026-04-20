@@ -17,3 +17,8 @@ This workshop was held in Basel, Swiss, in 2024.
 2. click a recent PDF generation job
 3. under Artifacts, click "PDF and info.txt" to download a ZIP file with these two files
 4. extract the PDF from the ZIP file
+
+## The Markdown source
+
+1. go to [paper/paper.md](paper/paper.md)
+2. read the source document
