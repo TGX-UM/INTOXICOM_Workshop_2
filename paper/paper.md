@@ -117,7 +117,7 @@ The workshop again started with presentations to introduce ELIXIR, the ELIXIR To
 | --- | -------- |
 | Egon Willighagen | ELIXIR Introduction & ELIXIR Toxicology Community |
 | Vassilios Ioannidis | The FAIR Cookbook - How to Contribute |
-| Sara Morsy | [How to make toxicology training materials FAIR](https://zenodo.org/records/19675641)|
+| Sara Morsy | How to make toxicology training materials FAIR [@Morsy2026] ]|
 | Marvin Martens | FAIRification of Scientific Models: Adverse Outcome Pathways |
 | Egon Willighagen | Making QSAR models FAIR [@willighagen_QSAR] |
 | Kryštof Komanec | DSW TDK Creating a new template |
