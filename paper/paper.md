@@ -77,7 +77,6 @@ affiliations:
   - name: Faculty of Life Sciences, University of Bradford, Bradford, UK
     index: 12
     ror: 03angcq70
----
 date: 1 December 2024
 cito-bibliography: paper.bib
 event: INTOXICOM
