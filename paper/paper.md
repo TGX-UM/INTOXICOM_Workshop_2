@@ -152,10 +152,10 @@ The session introduced a minimal metadata standard developed by the Research Dat
 |                                  | Position in risk assessment      | Stage within risk assessment pipeline                                                  |
 |                                  | Application domains              | Academia, regulatory agencies, industry                                                |
 |                                  | Methodological classification    | Type of scientific/analytical approach                                                 |
-|                                  | Risk analysis stage              | Research → assessment → management → communication                                     |
+|                                  | Risk analysis stage              | Research, assessment, management, communication                                     |
 | Technical and Structural Metadata| Dependencies / prerequisites     | Required prior knowledge, tools, or datasets                                           |
 |                                  | Funding source                   | Project or funding body                                                                |
-|                                  | Interoperability links           | Links to registries such as :contentReference[oaicite:0]{index=0}                      |
+|                                  | Interoperability links           | Links to registries such as TeSS                   |
 
 One of the groups added the following picture to show different levels of biological integration to illustrate the granularity of toxicology and how metadata should reflect these levels
 ![Toxicology scope and subdomains that should be captured in the metadata](tox_metadata.png)
@@ -211,7 +211,7 @@ Improved alignment with platforms such as TeSS and FAIRsharing was recommended t
 Providing clear guidelines and reusable templates, such as Markdown combined with Bioschemas annotations, would help lower the barrier to adoption and support more consistent implementation.
 
 **Demonstrating impact**  
-Showcasing the practical benefits of FAIR training materials—particularly their role in improving transparency and supporting risk assessment—was seen as essential for increasing engagement.
+Showcasing the practical benefits of FAIR training materials, particularly their role in improving transparency and supporting risk assessment, was seen as essential for increasing engagement.
 
 **Incentives**  
 Finally, participants stressed the importance of strengthening incentives by recognizing training materials as scholarly outputs, allocating dedicated time for their development, and aligning FAIR practices with funding and institutional priorities.
