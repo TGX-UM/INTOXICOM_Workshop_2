@@ -146,22 +146,24 @@ This started the discussion on how to apply FAIR Principles for toxicology train
 
 ### Minimum metadata descriptors for training materials
 The session introduced a minimal metadata standard developed by the Research Data Aliance [@Hoebelheinrich2022] and criteria for persistent identifiers for training materials. The activity then progressed to focus on discussing what would be the minimal metadata standards to describe toxicology training materials. The participants were split into three groups for this activity. Based on the discussion, we realised that these minimum metadata descriptors are not always sufficient. While minimal metadata supports basic discoverability, domain-specific metadata significantly enhances reuse and interoperability. The following were recommended as additional metadata for toxicology training materials:
-| Category                         | Metadata Element                 | Description / Examples                                                                 |
-|----------------------------------|----------------------------------|----------------------------------------------------------------------------------------|
-| Pedagogical Context              | Required expertise level         | Beginner, intermediate, advanced                                                       |
-|                                  | Delivery mode                    | Stand-alone or instructor-led                                                          |
-|                                  | Duration                         | Length of the training (e.g., 2 hours, 1 week course)                                  |
-|                                  | Certification                    | Formal recognition (e.g., EUROTOX courses)                                             |
-| Domain-Specific Metadata         | Regulatory domain                | REACH, pharmaceuticals, cosmetics, food safety                                         |
-| (Toxicology subdomains)          | Area of toxicology               | Human toxicology, ecotoxicology, One Health                                            |
-|                                  | Method type                      | In vivo, in vitro, in silico                                                           |
-|                                  | Position in risk assessment      | Stage within risk assessment pipeline                                                  |
-|                                  | Application domains              | Academia, regulatory agencies, industry                                                |
-|                                  | Methodological classification    | Type of scientific/analytical approach                                                 |
-|                                  | Risk analysis stage              | Research → assessment → management → communication                                     |
-| Technical and Structural Metadata| Dependencies / prerequisites     | Required prior knowledge, tools, or datasets                                           |
-|                                  | Funding source                   | Project or funding body                                                                |
-|                                  | Interoperability links           | Links to registries such as :contentReference[oaicite:0]{index=0}                      |
+
+| **Category**                         | **Metadata Element**              | **Description / Examples**                                         |
+|--------------------------------------|----------------------------------|-------------------------------------------------------------------|
+| Pedagogical Context                  | Required expertise level         | Beginner, intermediate, advanced                                  |
+|                                      | Delivery mode                    | Stand-alone or instructor-led                                     |
+|                                      | Duration                         | Length of the training (e.g., 2 hours, 1 week course)             |
+|                                      | Certification                    | Formal recognition (e.g., EUROTOX courses)                        |
+| Domain-Specific Metadata             | Regulatory domain                | REACH, pharmaceuticals, cosmetics, food safety                    |
+| (Toxicology subdomains)              | Area of toxicology               | Human toxicology, ecotoxicology, One Health                       |
+|                                      | Method type                      | In vivo, in vitro, in silico                                      |
+|                                      | Position in risk assessment      | Stage within risk assessment pipeline                             |
+|                                      | Application domains              | Academia, regulatory agencies, industry                           |
+|                                      | Methodological classification    | Type of scientific/analytical approach                            |
+|                                      | Risk analysis stage              | Research, assessment, management, communication                   |
+| Technical and Structural Metadata    | Dependencies / prerequisites     | Required prior knowledge, tools, or datasets                      |
+|                                      | Funding source                   | Project or funding body                                           |
+|                                      | Interoperability links           | Links to registries such as external ontology references          |
+
 
 One of the groups added the following picture to show different levels of biological integration to illustrate the granularity of toxicology and how metadata should reflect these levels
 ![Toxicology scope and subdomains that should be captured in the metadata](tox_metadata.png)
