@@ -129,11 +129,11 @@ The workshop again started with presentations to introduce ELIXIR, the ELIXIR To
 | --- | -------- |
 | Egon Willighagen | ELIXIR Introduction & ELIXIR Toxicology Community |
 | Vassilios Ioannidis | The FAIR Cookbook - How to Contribute |
-| Sara Morsy | How to make toxicology training materials FAIR [@Morsy2026] ]|
+| Sara Morsy | How to make toxicology training materials FAIR [@citesAsRecommendedReading:Morsy2026] ]|
 | Marvin Martens | FAIRification of Scientific Models: Adverse Outcome Pathways |
-| Egon Willighagen | Making QSAR models FAIR [@willighagen_QSAR] |
+| Egon Willighagen | Making QSAR models FAIR [@citesAsRecommendedReading:willighagen_QSAR] |
 | Kryštof Komanec | DSW TDK Creating a new template |
-| Christian Bonatto Minella | FAIRsharing and the ELIXIR Toxicology Community [@BonattoMinella2025] |
+| Christian Bonatto Minella | FAIRsharing and the ELIXIR Toxicology Community [@citesAsRecommendedReading:BonattoMinella2025] |
 
 ## Day 1
 
@@ -146,12 +146,12 @@ can be annotated with the BioAssay Ontology.
 During the afternoon sessions, we focused on making training material more
 FAIR, specifically with BioSchemas. The workshop also laid the groundwork for WS5 in Birmingham. Sara Morsy introduced the topic in a
 welcoming style with a presentation with interactive survey (see Figure 1).
-This started the discussion on how to apply FAIR Principles for toxicology training materials. The workshop provided tips on how to FAIRify these training materials through going through ten simple rules for make training materials FAIR [@Garcia2020] with specific focus on metadata, Applying Bioschemia training profiles, persistent identifiers, TeSS registration and Learning paths tailored to the toxicology training materials. 
+This started the discussion on how to apply FAIR Principles for toxicology training materials. The workshop provided tips on how to FAIRify these training materials through going through ten simple rules for make training materials FAIR [@citesAsRecommendedReading:Garcia2020] with specific focus on metadata, Applying Bioschemia training profiles, persistent identifiers, TeSS registration and Learning paths tailored to the toxicology training materials. 
 
 ![An interactive survey provided a friendly entrance to listing existing training materials](tox_training_materials.png)
 
 ### Minimum metadata descriptors for training materials
-The session introduced a minimal metadata standard developed by the Research Data Aliance [@Hoebelheinrich2022] and criteria for persistent identifiers for training materials. The activity then progressed to focus on discussing what would be the minimal metadata standards to describe toxicology training materials. The participants were split into three groups for this activity. Based on the discussion, we realised that these minimum metadata descriptors are not always sufficient. While minimal metadata supports basic discoverability, domain-specific metadata significantly enhances reuse and interoperability. The following were recommended as additional metadata for toxicology training materials:
+The session introduced a minimal metadata standard developed by the Research Data Aliance [@citesAsRecommendedReading:Hoebelheinrich2022] and criteria for persistent identifiers for training materials. The activity then progressed to focus on discussing what would be the minimal metadata standards to describe toxicology training materials. The participants were split into three groups for this activity. Based on the discussion, we realised that these minimum metadata descriptors are not always sufficient. While minimal metadata supports basic discoverability, domain-specific metadata significantly enhances reuse and interoperability. The following were recommended as additional metadata for toxicology training materials:
 
 
 | Category                         | Metadata Element                 | Description / Examples                                                                 |
@@ -182,7 +182,7 @@ and the existence of national toxicology curicula, like the Dutch Postgraduate E
 
 Existing training material came from projects like eNanoMapper and NanoCommons which was successfully minted with training profile Bioschema:
 
-* [NanoCommons User Guidance Handbook](https://nanocommons.github.io/user-handbook/) [@Brajnik2022]
+* [NanoCommons User Guidance Handbook](https://nanocommons.github.io/user-handbook/) [@extends:Brajnik2022]
 * [Browsing the eNanoMapper ontology with BioPortal, AberOWL and Protégé](https://enanomapper.github.io/tutorials/BrowseOntology/Tutorial%20browsing%20eNM%20ontology.html)
 
 ### Learning Paths Activity
@@ -284,7 +284,7 @@ The impact of these efforts is expected to be substantial, with standardised, we
 
 The workshop created many new ideas and plans. Some of the resuls were completed
 sometime after the workshop, like the full FAIRsharing report on the toxicology
-collection [@bonatto_minella_15799783]. Online coverage included a Health-RI
+collection [@citesAsRecommendedReading:bonatto_minella_15799783]. Online coverage included a Health-RI
 news item (https://www.health-ri.nl/en/news/advancing-fair-data-toxicology-elixir-nl-contributes-key-workshops).
 
 ## Funding
