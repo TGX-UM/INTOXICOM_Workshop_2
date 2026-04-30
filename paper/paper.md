@@ -23,26 +23,29 @@ authors:
   - name: Jente&nbsp;Houweling
     affiliation: 6, 7
     orcid: 0009-0005-3680-0645
-  - name: Danyel&nbsp;Jennen
+  - name: Vassilios&nbsp;Ioannidis
     affiliation: 7
+    orcid: 0000-0002-4209-2578
+  - name: Danyel&nbsp;Jennen
+    affiliation: 8
     orcid: 0000-0002-8618-2487
   - name: Kryštof&nbsp;Komanec
-    affiliation: 8
+    affiliation: 9
     orcid: 0000-0003-3856-1682
   - name: Iseult&nbsp;Lynch
-    affiliation: 9
+    affiliation: `0
     orcid: 0000-0003-4250-4584
   - name: Uko&nbsp;Maran
-    affiliation: 10
+    affiliation: 11
     orcid: 0000-0003-2506-0934
   - name: Rob&nbsp;Stierum
-    affiliation: 11
+    affiliation: 12
     orcid: 0000-0002-4409-1974
   - name: Marvin&nbsp;Martens
     affiliation: 7
     orcid: 0000-0003-2230-0840
   - name: Sara&nbsp;Morsy
-    affiliation: 12
+    affiliation: 13
     orcid: 0000-0002-2477-1139
   - name: Egon&nbsp;Willighagen
     affiliation: 7
@@ -65,23 +68,26 @@ affiliations:
   - name: RIVM, Bilthoven, Netherlands, NL
     index: 6
     ror: 01cesdt21
-  - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
+  - name: SIB Swiss Institute of Bioinformatics, Vital-IT, Lausanne, CH
     index: 7
+    ror: 002n09z45
+  - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
+    index: 8
     ror: 02jz4aj89
   - name: Faculty of Information Technology, Czech Technical University in Prague, Praha, CZ
-    index: 8
+    index: 9
     ror: 03kqpb082
   - name: University of Birmingham, Birmingham, UK
-    index: 9
+    index: 10
     ror: 03angcq70
   - name: Institute of Chemistry, University of Tartu, Tartu, ET
-    index: 10
+    index: 11
     ror: 03z77qz90
   - name: The Netherlands Organisation for Applied Scientific Research (TNO), Utrecht, NL
-    index: 11
+    index: 12
     ror: 03angcq70
   - name: Faculty of Life Sciences, University of Bradford, Bradford, UK
-    index: 12
+    index: 13
     ror: 03angcq70
 date: 1 December 2024
 cito-bibliography: paper.bib
@@ -137,7 +143,7 @@ The workshop again started with presentations to introduce ELIXIR, the ELIXIR To
 
 ## Day 1
 
-The first session was on FAIR Cookbook, opened by a presenation by 
+The first session was on FAIR Cookbook, opened by a presentation by 
 Vassilios Ioannidis, which also were looked  into during the first workshop.
 During this meeting, a new FAIR Cookbook recipe
 was written with HackMD (https://hackmd.io/@lusinke/rkXlvLXE0), describing how assays
