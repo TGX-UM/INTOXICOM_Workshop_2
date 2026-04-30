@@ -137,7 +137,7 @@ The workshop again started with presentations to introduce ELIXIR, the ELIXIR To
 
 ## Day 1
 
-The first session was on FAIR Cookbook, opened by a presenation by 
+The first session was on FAIR Cookbook, opened by a presentation by 
 Vassilios Ioannidis, which also were looked  into during the first workshop.
 During this meeting, a new FAIR Cookbook recipe
 was written with HackMD (https://hackmd.io/@lusinke/rkXlvLXE0), describing how assays
@@ -146,12 +146,12 @@ can be annotated with the BioAssay Ontology.
 During the afternoon sessions, we focused on making training material more
 FAIR, specifically with BioSchemas. The workshop also laid the groundwork for WS5 in Birmingham. Sara Morsy introduced the topic in a
 welcoming style with a presentation with interactive survey (see Figure 1).
-This started the discussion on how to apply FAIR Principles for toxicology training materials. The workshop provided tips on how to FAIRify these training materials through going through ten simple rules for make training materials FAIR [@citesAsRecommendedReading:Garcia2020] with specific focus on metadata, Applying Bioschemia training profiles, persistent identifiers, TeSS registration and Learning paths tailored to the toxicology training materials. 
+This started the discussion on how to apply FAIR Principles for toxicology training materials. The workshop provided tips on how to FAIRify these training materials by going through ten simple rules for make training materials FAIR [@citesAsRecommendedReading:Garcia2020] with specific focus on metadata, Applying BioSchemas training profiles, persistent identifiers, TeSS registration and Learning paths tailored to the toxicology training materials. 
 
 ![An interactive survey provided a friendly entrance to listing existing training materials](tox_training_materials.png)
 
 ### Minimum metadata descriptors for training materials
-The session introduced a minimal metadata standard developed by the Research Data Aliance [@citesAsRecommendedReading:Hoebelheinrich2022] and criteria for persistent identifiers for training materials. The activity then progressed to focus on discussing what would be the minimal metadata standards to describe toxicology training materials. The participants were split into three groups for this activity. Based on the discussion, we realised that these minimum metadata descriptors are not always sufficient. While minimal metadata supports basic discoverability, domain-specific metadata significantly enhances reuse and interoperability. The following were recommended as additional metadata for toxicology training materials:
+The session introduced a minimal metadata standard developed by the Research Data Alliance [@citesAsRecommendedReading:Hoebelheinrich2022] and criteria for persistent identifiers for training materials. The activity then progressed to focus on discussing what would be the minimal metadata standards to describe toxicology training materials. The participants were split into three groups for this activity. Based on the discussion, we realised that these minimum metadata descriptors are not always sufficient. While minimal metadata supports basic discoverability, domain-specific metadata significantly enhances reuse and interoperability. The following were recommended as additional metadata for toxicology training materials:
 
 
 | Category                         | Metadata Element                 | Description / Examples                                                                 |
@@ -177,7 +177,7 @@ One of the groups added the following picture to show different levels of biolog
 ![Toxicology scope and subdomains that should be captured in the metadata](tox_metadata.png)
 
 ### Training profile Bioschema activity
-The participant continued working with their groups and explored how to add Bioschemas markup to existing training materials. Participants worked on embedding structured metadata into Markdown-based materials to improve machine readability, indexing in registries like TeSS, search engine discoverability. This exercise sparked discussion on technical aspects of FAIR and how experimental toxicologists may struggle. As a result, The participants discussed the potential use of large language models (LLMs) to generate metadata descriptions, convert narrative content into structured markdown and assist with FAIR compliance. The discussions further covered registration of training material in ELIXIR TeSS, 
+The participants continued working with their groups and explored how to add Bioschemas markup to existing training materials. Participants worked on embedding structured metadata into Markdown-based materials to improve machine readability, indexing in registries like TeSS, search engine discoverability. This exercise sparked discussion on technical aspects of FAIR and how experimental toxicologists may struggle. As a result, The participants discussed the potential use of large language models (LLMs) to generate metadata descriptions, convert narrative content into structured markdown and assist with FAIR compliance. The discussions further covered registration of training material in ELIXIR TeSS, 
 and the existence of national toxicology curicula, like the Dutch Postgraduate Education in Toxicology (https://toxcourses.nl/).
 
 Existing training material came from projects like eNanoMapper and NanoCommons which was successfully minted with training profile Bioschema:
@@ -189,7 +189,7 @@ Existing training material came from projects like eNanoMapper and NanoCommons w
 
 The third activity introduced participants to the concept of **learning paths** and their role in supporting FAIR principles. Participants engaged in an interactive *“roll the dice”* exercise, where they used training materials available on TeSS to construct coherent learning paths. This activity served a dual purpose. First, it familiarized participants with the structure and value of learning paths as a way to organize and contextualize training materials. Second, it encouraged active exploration of toxicology-related resources within TeSS, enabling participants to identify gaps, overlaps, and domain-specific challenges in the current training landscape. The participants used Miro to work together on exploring TeSS and build learning paths
 
-![Basic learning path for learners who wants to learn toxicology databases](tox_learning_path.png)
+![Basic learning path for learners who want to learn toxicology databases](tox_learning_path.png)
 
 ### Final Activity: Reflecting on FAIR Challenges and Solutions
 
@@ -214,7 +214,7 @@ Many research data management tools were perceived as complex and sometimes erro
 
 ### Proposed Solutions
 
-**Aliging with toxicology community standards**  
+**Aligning with toxicology community standards**  
 Participants emphasized the need for community-agreed metadata profiles that strike a balance between usability and the level of detail required for interoperability and reuse.
 
 **Automation**  
@@ -242,8 +242,8 @@ and biological pathway models like in WikiPathways.
 For the first, the QSAR DataBank (https://qsardb.org/) exists.
 
 The next session, led by Kryštof Komanec, was about the DS-Wizard and the need for templates specific for
-toxicology. The idea here is that targeted templates remove more less specific questions,
-improving the sense of purpose. DS-Wizard has a mechnism for document templates
+toxicology. The idea here is that targeted templates remove less specific questions,
+improving the sense of purpose. DS-Wizard has a mechanism for document templates
 (https://ds-wizard.org/document-templates) based on Jinja2 (https://en.wikipedia.org/wiki/Jinja).
 The idea arises that the ELIXIR Toxicology Community creates a knowledge model for the
 different scientific models, based on which the templates can be created.
@@ -282,7 +282,7 @@ The impact of these efforts is expected to be substantial, with standardised, we
 
 # Conclusion
 
-The workshop created many new ideas and plans. Some of the resuls were completed
+The workshop created many new ideas and plans. Some of the results were completed
 sometime after the workshop, like the full FAIRsharing report on the toxicology
 collection [@citesAsRecommendedReading:bonatto_minella_15799783]. Online coverage included a Health-RI
 news item (https://www.health-ri.nl/en/news/advancing-fair-data-toxicology-elixir-nl-contributes-key-workshops).
