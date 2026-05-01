@@ -38,6 +38,9 @@ authors:
   - name: Uko&nbsp;Maran
     affiliation: 11
     orcid: 0000-0003-2506-0934
+  - name: Luis&nbsp;Antonio&nbsp;Rico&nbsp;Guerrero
+    affiliation: 3
+    orcid: 0000-0001-9845-3048
   - name: Rob&nbsp;Stierum
     affiliation: 12
     orcid: 0000-0002-4409-1974
